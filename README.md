@@ -52,7 +52,7 @@ cd PRODIGY_WD_01
 
 ## Live Demo
 
-Add your deployment link here.
+[Linkdin_Post](https://www.linkedin.com/posts/shubh-pandey-a13658392_prodigyinfotech-webdevelopment-frontend-ugcPost-7485743658512637952-mG_T/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGCPeK8B75re7RcaE01bqTmvqlLDK5zrIYA)
 
 ## Internship Task
 
